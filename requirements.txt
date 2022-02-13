@@ -2,5 +2,5 @@ matplotlib==3.3.4
 metcalcpy==1.1.0b5
 numpy==1.19.5
 pandas==1.1.5
-scipy>=1.7.3
+scipy==1.7.3
 statsmodels==0,13.2
