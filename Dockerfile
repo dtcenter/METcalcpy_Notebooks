@@ -2,7 +2,7 @@ FROM python:3.9.7-slim-bullseye
 FROM jupyter/datascience-notebook:latest
 
 # Image descriptions, optional.
-LABEL maintainer="Minna Win NCAR/DTC"
+LABEL maintainer="Minna Win NSF NCAR/DTC"
 LABEL version="0.1"
 LABEL description="METcalcpy experimental notebook"
 
